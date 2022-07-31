@@ -1,0 +1,26 @@
+{
+  "name": "moviedetail",
+  "version": "1.0.0",
+  "description": "an app that returns details of every woman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayo-Adewuyi/MovieDetails.git"
+  },
+  "author": "Dayo-Adewuyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayo-Adewuyi/MovieDetails/issues"
+  },
+  "homepage": "https://github.com/Dayo-Adewuyi/MovieDetails#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
